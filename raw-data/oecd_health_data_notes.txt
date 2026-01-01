@@ -1,0 +1,81 @@
+DATA NOTES 2025-12-03
+
+Source: https://www.oecd.org/en/data/datasets/oecd-health-statistics.html
+Download date: 2025-12-03
+
+* Health expenditure and financing
+
+A System of Health Accounts 2011 provides an updated and systematic 
+description of the financial flows related to the consumption of 
+healthcare goods and services. As demands for information increase and
+more countries implement and institutionalise health accounts according
+to the system, the data produced are expected to be more comparable, more 
+detailed and more policy relevant. It builds on the original OECD Manual, 
+published in 2000 to create a single global framework for producing health 
+expenditure accounts that can help track resource flows from sources to uses. 
+It is the result of a collaborative effort between the OECD, WHO and the 
+European Commission, and sets out in more detail the boundaries, the 
+definitions and the concepts – responding to healthcare systems around the 
+globe – from the simplest to the more complicated. The accounting framework 
+is organised around a tri-axial system for the recording of healthcare 
+expenditure, namely classifications of the functions of healthcare (ICHA-HC), 
+healthcare provision (ICHA-HP), and financing schemes (ICHA-HF).
+
+Frequency of observation: Annual
+Measure: Expenditure
+Topic: Health > Health expenditure and financing
+Number of unfiltered data points: 12408179
+Last updated: October 29, 2025 at 6:48:03 AM
+
+* Life expectancy
+
+This dataset presents data on life expectancy at birth, 
+and at ages 40, 60, 65 and 80 years old.
+Frequency of observation: Annual
+Unit of measure: Years
+Topic: Health > Health status
+Number of unfiltered data points: 52277
+Last updated: November 18, 2025 at 6:09:12 AM
+
+* Maternal and infant mortality
+
+This dataset presents time series on infant, neonatal, perinatal and 
+maternal mortality. 
+Data for infant and neonatal mortality are presented either with no 
+minimum threshold of gestation period or birthweight, or following 
+the minimum threshold of 22 weeks (or 500 grams birthweight)
+Frequency of observation: Annual
+Topic: Health > Health status
+Number of unfiltered data points: 11735
+Last updated: November 18, 2025 at 6:09:12 AM
+
+* Infant health: low birthweight
+
+This dataset presents time series on the number of live births weighing 
+less than 2500 grams as a percentage of the total number of live births.
+
+Frequency of observation: Annual
+Measure: Low birthweight
+Unit of measure: Percentage of live births
+Topic: Health > Health status
+Number of unfiltered data points: 1996
+Last updated: November 18, 2025 at 6:09:12 AM
+
+* Potential years of life lost
+
+Potential Years of Life Lost (PYLL) is a summary measure of premature 
+mortality which provides an explicit way of weighting deaths occurring 
+at younger ages, which are, a priori, preventable. The calculation of PYLL
+involves summing up deaths occurring at each age and multiplying this with
+ the number of remaining years to live up to a selected age limit. 
+ The limit of 75 years has been chosen for the calculations in OECD Health 
+ Statistics.
+
+Frequency of observation: Annual
+Measure: Potential years of life lostUnit of measure: Years per 100 000 persons
+Age: 75 years
+Topic: Health > Health status
+Number of unfiltered data points: 331224
+Last updated: November 18, 2025 at 6:09:12 AM
+
+
