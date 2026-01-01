@@ -1,7 +1,7 @@
 # International Health Care Comparisons
-"Paying More for Less: The US Health Care System"
-Center for Economic and Policy Research
-December 10, 2025
+"Paying More for Less: The US Health Care System"  
+Center for Economic and Policy Research  
+December 10, 2025  
 https://cepr.net/publications/paying-more-for-less-the-us-health-care-system/
 
 ## Healthcare expenditures
